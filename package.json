@@ -1,0 +1,14 @@
+{
+  "name": "ginkgo-and-gomega-snippets",
+  "main": "./lib/ginkgo-and-gomega-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["ginkgo-and-gomega-snippets:toggle"],
+  "repository": "https://github.com/atom/ginkgo-and-gomega-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable ginkgo-and-gomega-snippets': 'ginkgo-and-gomega-snippets:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'ginkgo-and-gomega-snippets'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'ginkgo-and-gomega-snippets:toggle' }
+      ]
+    ]
+  }
+]
