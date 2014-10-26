@@ -25,9 +25,9 @@
         'prefix': 'eto'
         'body': 'Expect(${1:actual}).To(${2:expected})'
 
-    'Expect ToNot'
+    'Expect ToNot':
         'prefix': 'ett'
-        'body' 'Expect($1:actual).ToNo({2:expected})'
+        'body': 'Expect($1:actual).ToNo({2:expected})'
 
     # MATCHERS #################################################################
     'BeAssignableTypeOf':
