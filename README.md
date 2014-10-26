@@ -4,6 +4,8 @@ Code snippets for BDD testing in [Golang](http://golang.org) with [Ginkgo](http:
 
 ![A screenshot of your spankin' package] (http://i.giphy.com/F0uUtL7lmALCM.gif)
 
+```apm install ginkgo-and-gomega-snippets```
+
 ## Contributing
 
 1. Fork it
