@@ -1,7 +1,7 @@
 {
   "name": "ginkgo-and-gomega-snippets",
   "main": "./lib/ginkgo-and-gomega-snippets",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Code snippets for BDD testing in Golang with Ginkgo & Gomega.",
   "activationEvents": [
     "ginkgo-and-gomega-snippets:toggle"
