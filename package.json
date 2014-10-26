@@ -1,14 +1,15 @@
 {
   "name": "ginkgo-and-gomega-snippets",
   "main": "./lib/ginkgo-and-gomega-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Code snippets for BDD testing in Golang with Ginkgo & Gomega.",
-  "activationEvents": ["ginkgo-and-gomega-snippets:toggle"],
+  "activationEvents": [
+    "ginkgo-and-gomega-snippets:toggle"
+  ],
   "repository": "https://github.com/evankline/ginkgo-and-gomega-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
